@@ -1,0 +1,226 @@
+[
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Jordan",
+            "last": "Cooper"
+        },
+        "location": {
+            "street": {
+                "number": 5968,
+                "name": "Pine Hill Road"
+            },
+            "city": "Upper Hutt",
+            "state": "Canterbury",
+            "country": "New Zealand",
+            "postcode": 73563,
+            "coordinates": {
+                "latitude": "53.4953",
+                "longitude": "-9.3661"
+            },
+            "timezone": {
+                "offset": "+11:00",
+                "description": "Magadan, Solomon Islands, New Caledonia"
+            }
+        },
+        "email": "jordan.cooper@example.com",
+        "login": {
+            "uuid": "91f9ad2b-b2c7-4b77-ad2e-fa4d2fab5faf",
+            "username": "blacktiger984",
+            "password": "sites",
+            "salt": "UhWDUBD3",
+            "md5": "970c50a6eda12eef6e2d39a49c62dd25",
+            "sha1": "6f8e50b1d965b54bf0f57f72baed2fb3efe0c529",
+            "sha256": "0b4a8e998e4457e10422e32cb9542a732bf5ce2a15e85e590ada4c093e7c85e7"
+        },
+        "dob": {
+            "date": "1981-08-30T08:11:44.967Z",
+            "age": 43
+        },
+        "registered": {
+            "date": "2008-03-05T03:44:24.166Z",
+            "age": 16
+        },
+        "phone": "(196)-739-6917",
+        "cell": "(230)-965-5933",
+        "id": {
+            "name": "",
+            "value": null
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/82.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+        },
+        "nat": "NZ"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Alejandra",
+            "last": "Navarro"
+        },
+        "location": {
+            "street": {
+                "number": 9821,
+                "name": "Avenida del Planetario"
+            },
+            "city": "Zaragoza",
+            "state": "Región de Murcia",
+            "country": "Spain",
+            "postcode": 58896,
+            "coordinates": {
+                "latitude": "-65.2840",
+                "longitude": "102.2584"
+            },
+            "timezone": {
+                "offset": "-1:00",
+                "description": "Azores, Cape Verde Islands"
+            }
+        },
+        "email": "alejandra.navarro@example.com",
+        "login": {
+            "uuid": "450fa88f-455d-40a2-af3f-f82125b26d71",
+            "username": "beautifulduck872",
+            "password": "jazz",
+            "salt": "lhjuRlx2",
+            "md5": "5ad2feb769a820b289a25c6301fa17fb",
+            "sha1": "ea1f2d8b61a42c0dfa39a5c0e71e894a25ffc634",
+            "sha256": "91f7afe81be516be50b91c3b7f9a0192d09ab27461088312a16ad0bfdd14ed4f"
+        },
+        "dob": {
+            "date": "1974-02-10T23:07:05.446Z",
+            "age": 50
+        },
+        "registered": {
+            "date": "2011-03-24T04:15:01.456Z",
+            "age": 13
+        },
+        "phone": "944-647-997",
+        "cell": "616-064-054",
+        "id": {
+            "name": "DNI",
+            "value": "34351659-U"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/48.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+        },
+        "nat": "ES"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Stacy",
+            "last": "Johnston"
+        },
+        "location": {
+            "street": {
+                "number": 6811,
+                "name": "Saddle Dr"
+            },
+            "city": "Tulsa",
+            "state": "Iowa",
+            "country": "United States",
+            "postcode": 58733,
+            "coordinates": {
+                "latitude": "-52.1532",
+                "longitude": "129.0020"
+            },
+            "timezone": {
+                "offset": "-9:00",
+                "description": "Alaska"
+            }
+        },
+        "email": "stacy.johnston@example.com",
+        "login": {
+            "uuid": "87877a6b-ffb2-490a-b097-4759298ecfbe",
+            "username": "organiccat893",
+            "password": "shemale",
+            "salt": "UqJhKLnI",
+            "md5": "3113f6a953d46a7496600a60ec83e129",
+            "sha1": "db37592ebeb5589f96c4b7f128f3a0c59d1f91e5",
+            "sha256": "d64f78c01f72bd1501a8745f160d036f29b42c161c4653f109be0a32e354a01d"
+        },
+        "dob": {
+            "date": "1986-03-14T02:23:35.113Z",
+            "age": 38
+        },
+        "registered": {
+            "date": "2009-09-14T09:48:23.699Z",
+            "age": 15
+        },
+        "phone": "(898) 334-0030",
+        "cell": "(330) 502-0955",
+        "id": {
+            "name": "SSN",
+            "value": "016-64-0103"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/73.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
+        },
+        "nat": "US"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "John",
+            "last": "Matthews"
+        },
+        "location": {
+            "street": {
+                "number": 2863,
+                "name": "The Crescent"
+            },
+            "city": "Kilcoole",
+            "state": "South Dublin",
+            "country": "Ireland",
+            "postcode": 95591,
+            "coordinates": {
+                "latitude": "-5.0675",
+                "longitude": "-63.5333"
+            },
+            "timezone": {
+                "offset": "-3:30",
+                "description": "Newfoundland"
+            }
+        },
+        "email": "john.matthews@example.com",
+        "login": {
+            "uuid": "1abe48c4-9199-438c-91eb-5ccfd2560041",
+            "username": "redzebra849",
+            "password": "green1",
+            "salt": "uMano8Fp",
+            "md5": "5db079360594769e3bc6c3634a891817",
+            "sha1": "149d52fd4e87d6b9661c7b32d061326a23142c3e",
+            "sha256": "8dc8b547ca0b1a5750cd2fb74475cf84264be8ebeb254bbe8ca703603bfb56a8"
+        },
+        "dob": {
+            "date": "1958-05-18T04:07:32.058Z",
+            "age": 66
+        },
+        "registered": {
+            "date": "2021-02-14T09:15:28.282Z",
+            "age": 3
+        },
+        "phone": "051-589-9835",
+        "cell": "081-239-0183",
+        "id": {
+            "name": "PPS",
+            "value": "9693807T"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/92.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+        },
+        "nat": "IE"
+    }
+]
