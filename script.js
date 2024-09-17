@@ -5,9 +5,9 @@ async function generateUsers() {
             throw new Error(`HTTP Error: Status: ${response.status}`);
         }
         let json = await response.json();
-        let PromiseResult = json.results;
-        console.log(PromiseResult);
-        return PromiseResult;
+        // let PromiseResult = json.results;
+        // console.log(PromiseResult);
+        return json.results;
     } catch (error) {
         console.log('Error:', error);
     }
@@ -19,8 +19,8 @@ createStructure();
 function createCards() {
     const users = generateUsers();
     console.log(users);
-    for (let index = 0; index < 4; index++) {
-        createSingleCard(users[result][index]);
+    for (let index = 0; index < 3; index++) {
+        createSingleCard(users[index]);
     }
 
 }
@@ -85,7 +85,8 @@ function createStructure() {
     phoneLabel.classList.add('phoneLabel');
     bottomPart.appendChild(phone);
     bottomPart.appendChild(phoneLabel);
-    document.body.appendChild(card);
+    let container = document.getElementById('container');
+    container.appendChild(card);
 
     return card;
 }
